@@ -17,7 +17,7 @@ Esse projeto visa desenvolver uma placa PCB partindo de um protótipo com o micr
 
 ## Esquemático do módulo de relé
 
-![Esquemático do módulo de relé](esquematico.png)
+![Esquemático do módulo de relé](Esquematico.png)
 
 ## PCB Layout
 
