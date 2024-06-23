@@ -1,4 +1,4 @@
-# Título do Projeto
+# PlacaPCB-NodeMCU8266
 
 Esse projeto visa desenvolver uma placa PCB partindo de um protótipo com o microcontrolador NodeMCU8266.
 
